@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+
+.intro {
+  margin: 0;
+
+  &--bem {
+    background-color: blue;
+  }
+  
+}
