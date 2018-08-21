@@ -1,4 +1,4 @@
-# BEM — Block Element Modifier 
+# BEM — Block Element Modifier | BEM as a modular solution for CSS
 
 Is a methodology that helps you to create reusable components and code sharing in front-end development
 
@@ -8,3 +8,9 @@ Is a methodology that helps you to create reusable components and code sharing i
 BEM is a simple naming convention that makes your front-end code easier to read and understand, easier to work with, easier to scale, more robust and explicit, and a lot more strict.
 
 The BEM naming convention ensures that everyone who participates in the development project works with a single codebase and speaks the same language.
+
+
+### Resources 
+
+http://getbem.com/
+
